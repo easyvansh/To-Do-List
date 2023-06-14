@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT badge" />
     </a>
   </p>
-![Preview](https://github.com/easyvansh/To-Do-List/assets/91223476/5c023b36-2966-4d4e-bb26-1398d0d95f3d)
+![Preview](Preview.png)
 
 </div>
 
