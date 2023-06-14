@@ -4,19 +4,10 @@
 
 <div align="center">
   <p>A to-do list application made with React.</p>
-
-  <p>
-   
-    </a>
-    <a href="https://github.com/easyvansh/To-Do-List/blob/main/LICENSE">
-      <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT badge" />
-    </a>
-  </p>
-![Preview](Preview.png)
-
 </div>
 
 - - -
+
 
 ## Table of Contents
 
