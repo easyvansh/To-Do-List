@@ -49,7 +49,7 @@ Write task descriptions in the text field and press `Enter` to add them to the l
 
 ![To Do](https://github.com/easyvansh/To-Do-List/assets/91223476/2e0687cb-3899-459e-a052-8c3849559ff9)
 
-Tasks can be marked as complete by ticking the checkbox. They can also be deleted by clicking the trash icon. They can be updated by clicking the update icon.
+Tasks can be marked as complete by ticking the checkbox. They can also be deleted by clicking the `trash` icon. They can be updated by clicking the `update` icon.
 
 ![Update](https://github.com/easyvansh/To-Do-List/assets/91223476/b3b8e3c6-2ce9-4d02-abd9-f41dd011a384)
 
