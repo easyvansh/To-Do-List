@@ -54,4 +54,4 @@ Tasks can be marked as complete by ticking the checkbox. They can also be delete
 
 ## License
 
-**MIT License**. For more information see [LICENSE].
+**MIT License**. For more information see [LICENSE](https://github.com/easyvansh/To-Do-List/blob/main/LICENSE).
