@@ -46,11 +46,13 @@ This correctly bundles React in production mode and optimizes the build for best
 ## Usage
 
 Write task descriptions in the text field and press `Enter` to add them to the list. You can also click on the icon inside the text field to add the task.
+![To Do](https://github.com/easyvansh/To-Do-List/assets/91223476/2e0687cb-3899-459e-a052-8c3849559ff9)
 
-Tasks can be marked as complete by ticking the checkbox. They can also be deleted by clicking the trash icon.
+Tasks can be marked as complete by ticking the checkbox. They can also be deleted by clicking the trash icon. They can be updated by clicking the update icon.
 
 **Note:** Tasks are not stored anywhere. If the page is refreshed or closed, all tasks will be gone.
-![To Do](https://github.com/easyvansh/To-Do-List/assets/91223476/2e0687cb-3899-459e-a052-8c3849559ff9)
+![Update](https://github.com/easyvansh/To-Do-List/assets/91223476/b3b8e3c6-2ce9-4d02-abd9-f41dd011a384)
+
 
 ## License
 
